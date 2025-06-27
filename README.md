@@ -4,7 +4,7 @@ This repository documents my journey of learning Flutter during my 8th (final) s
 
 ## 🚀 Lessons Covered  
 
-- **Lesson 1:** I Am Rich App  
+- **Lesson 1:** I Am Rich App -> Done
 - **Lesson 2:** [Upcoming...]  
 - **Lesson 3:** [Upcoming...]  
 - **Lesson 4:** [Upcoming...]  
