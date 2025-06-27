@@ -1,0 +1,13 @@
+/home/ali/Desktop/flutter4uni/gitReop/login/login/build/linux/x64/debug/bundle/login
+/home/ali/Desktop/flutter4uni/gitReop/login/login/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/ali/Desktop/flutter4uni/gitReop/login/login/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/ali/Desktop/flutter4uni/gitReop/login/login/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/ali/Desktop/flutter4uni/gitReop/login/login/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/ali/Desktop/flutter4uni/gitReop/login/login/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/ali/Desktop/flutter4uni/gitReop/login/login/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/ali/Desktop/flutter4uni/gitReop/login/login/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/ali/Desktop/flutter4uni/gitReop/login/login/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/ali/Desktop/flutter4uni/gitReop/login/login/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/ali/Desktop/flutter4uni/gitReop/login/login/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/ali/Desktop/flutter4uni/gitReop/login/login/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/ali/Desktop/flutter4uni/gitReop/login/login/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
